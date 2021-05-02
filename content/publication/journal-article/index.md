@@ -1,22 +1,19 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The central role of electricity in shaping the worldwide economy is broadly acknowledged in the energy literature. Having identified the then ongoing crisis of the electricity sector, the present Awami League government initiated restructuring the energy sector since 2009 to quicken the pace of the developmental activities. All these efforts resulted in landmark achievements in the Bangladesh energy sector, especially in increasing the electricity generation capacity. However, the global Covid-19 pandemic and its aftermath effects on the Bangladesh economy require a policy revision in Bangladesh's energy sector and electricity generation mix. To our knowledge, there is no study to analyse the adverse consequences of the Covid-19 in Bangladesh energy sector. By employing a SARIMA forecasting model, we reveal that electricity demand will remain less than the actual generation in the upcoming two years. Also, the DGE model finds that due to Covid-19, the economic growth rate will be around 4.5 percent in the long-run. We further simulate that the steady-state electricity demand and standard consumption values would fall by 8-10 percent and 6 percent, respectively. We recommend that a review of the power sector master plan is needed for future energy security and economic stability in Bangladesh.
+
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Sakib Bin Amin
+- Adib Ahmed
+- Abdul Mahidud Khan
+- Farhan Khan
+date: "2021-01-23T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/yETqkLnhsUI)'
   focal_point: ""
   preview_only: false
 projects: []
